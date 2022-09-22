@@ -13,7 +13,8 @@
   },
   "autoload": {
     "psr-4": {
-      "ngdang\\cretional\\simpleFactory\\": "creational/SimpleFactory/"
+      "ngdang\\cretional\\simpleFactory\\": "creational/SimpleFactory/",
+      "ngdang\\cretional\\factoryMethod\\": "creational/factoryMethod"
     }
   }
 }
