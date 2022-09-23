@@ -2,7 +2,6 @@
 
 namespace ngdang\cretional\factoryMethod;
 
-
 class facebook implements socialNetworkLogin{
 
     public function login()

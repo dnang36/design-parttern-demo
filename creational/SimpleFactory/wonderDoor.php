@@ -15,7 +15,6 @@ class wonderDoor implements Door{
 
     public function getWidth(): float
     {
-        // TODO: Implement getWidth() method.
         return $this->width;
     }
 
